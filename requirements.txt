@@ -1,0 +1,10 @@
+transformers
+numpy
+pandas
+matplotlib
+seaborn
+networkx
+openpyxl
+torch
+tqdm
+pyvis
